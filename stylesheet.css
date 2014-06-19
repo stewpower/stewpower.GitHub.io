@@ -1,0 +1,22 @@
+
+
+img{
+	border:5px solid black;
+	heigth:500px;
+	width:500px;
+	display:block;
+	border-radius:20px
+}
+p{
+	text-decoration:underline;
+	text align:center;
+	
+}
+
+h1{
+	border-radius:30px;	
+	text-align:center;
+	text-decoration:Rockwell,Helvetica,Impact,Times 	New Roman;
+	text-decoration:underline;
+	word-spacing:2em;
+}
